@@ -7,7 +7,7 @@
 export default {
     'demo': {
         title: 'weex-eros demo',
-        url: '/pages/demo/index.js'
+        url: '/pages/github/index.js'
     },
     'demo.lifecycle': {
         title: '生命周期',

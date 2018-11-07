@@ -8,7 +8,7 @@ module.exports = {
         // mediator
         'js/mediator/index.vue',
         // home
-        'js/pages/demo/index.vue',
+        'js/pages/github/index.vue',
         'js/pages/demo/lifecycle/index.vue',
         'js/pages/demo/assets/index.vue',
         'js/pages/demo/globalAttr/index.vue',
